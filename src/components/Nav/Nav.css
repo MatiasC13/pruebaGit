@@ -1,0 +1,10 @@
+nav {
+  width: 100vw;
+  margin-bottom: 20px;
+}
+
+ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
